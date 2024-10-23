@@ -1,1 +1,2 @@
 cout<<"Nigga";
+cout <<"Mirol";
